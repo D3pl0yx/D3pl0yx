@@ -6,4 +6,4 @@
 </div>
 
 🐍 <i><b>Lover of coding in Python</br></b></i>
-📫 <i><b><a href='https://tg://resolve?domain=wannadently'>My Telegram</a></br></b></i>
+📫 <i><b><a href='https://t.me/D3pl0yx'>My Telegram</a></br></b></i>
